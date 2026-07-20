@@ -5,7 +5,7 @@
 # 📘 Programming Logic and Algorithms with JavaScript
 
 > Self-taught study and review of programming logic and algorithms, based on the book **"Lógica de Programação e Algoritmos com JavaScript"** ("Programming Logic and Algorithms with JavaScript"), by **Edécio Fernando Iepsen** (Novatec, 2nd revised and expanded edition).
-
+<img width="731" height="1000" alt="Image" src="https://github.com/user-attachments/assets/0d414834-9a88-427d-b4d7-a9614794b02d" />
 ---
 
 ## 📑 Table of Contents
